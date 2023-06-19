@@ -1,0 +1,244 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "wave",
+			"boxState": "normal",
+			"expression": "chat",
+			"text": "Man the store doesnt have any customers at this time"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "wave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "My shift ends in 10 minutes so i can finally leave this place"
+		},
+		{
+			"sound": "",
+			"speed": 0.075,
+			"portrait": "empitri",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ": D"
+		},
+		{
+			"sound": "",
+			"speed": 0.11,
+			"portrait": "drown",
+			"boxState": "normal",
+			"expression": "saddest",
+			"text": "um"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "drown",
+			"boxState": "normal",
+			"expression": "saddest",
+			"text": "hi"
+		},
+		{
+			"sound": "",
+			"speed": 0.5,
+			"portrait": "wave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "empitri",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Welcome To The Funk Shack What Can We Get You :D"
+		},
+		{
+			"sound": "",
+			"speed": 0.11,
+			"portrait": "drown",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "can you uh"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "drown",
+			"boxState": "normal",
+			"expression": "saddest",
+			"text": "sing"
+		},
+		{
+			"sound": "",
+			"speed": 0.155,
+			"portrait": "wave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What"
+		},
+		{
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "drown",
+			"boxState": "normal",
+			"expression": "sadder",
+			"text": "im sorry im sorry ill be leaving now goodbye have a nice day yeah"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "empitri",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No Wait!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "empitri",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Im Sure My Friend Wave Here Would Love To Sing With You :P"
+		},
+		{
+			"sound": "",
+			"speed": 0.135,
+			"portrait": "wave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What"
+		},
+		{
+			"sound": "",
+			"speed": 0.09,
+			"portrait": "drown",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "really?"
+		},
+		{
+			"sound": "",
+			"speed": 0.16,
+			"portrait": "wave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "empitri",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Come On Wave!"
+		},
+		{
+			"sound": "",
+			"speed": 0.115,
+			"portrait": "wave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Shut up"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "empitri",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You Know The Customer Is Always Right"
+		},
+		{
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "drown",
+			"boxState": "normal",
+			"expression": "sadder",
+			"text": "no its fine i can leave if im bothering sorry sorry sorry"
+		},
+		{
+			"sound": "",
+			"speed": 0.125,
+			"portrait": "wave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "wave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok fine"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "drown",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok thank you miss wave and miss-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "empitri",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Empitri"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "empitri",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And you are???"
+		},
+		{
+			"sound": "",
+			"speed": 0.075,
+			"portrait": "drown",
+			"boxState": "normal",
+			"expression": "saddest",
+			"text": "drown"
+		},
+		{
+			"sound": "",
+			"speed": 0.09,
+			"portrait": "wave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "wave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well enough with the chatting lets sing before i change my mind"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "empitri",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ": D"
+		},
+		{
+			"sound": "",
+			"speed": 0.115,
+			"portrait": "drown",
+			"boxState": "normal",
+			"expression": "saddest",
+			"text": ": ("
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		60,
+		0
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "wave mad",
+			"idle_name": "wave mad"
+		},
+		{
+			"loop_name": "wave chat",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"idle_name": "wave chat",
+			"anim": "chat",
+			"loop_offsets": [
+				0,
+				-10
+			]
+		}
+	],
+	"image": "FS dialouge"
+}

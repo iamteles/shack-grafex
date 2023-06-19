@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FS dialouge.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Drown normal0000" x="11" y="11" width="384" height="450" pivotX="0" pivotY="0"/>
+	<SubTexture name="Drown normal0001" x="11" y="11" width="384" height="450"/>
+	<SubTexture name="Drown normal0002" x="11" y="11" width="384" height="450"/>
+	<SubTexture name="Drown normal0003" x="424" y="11" width="384" height="450"/>
+	<SubTexture name="Drown normal0004" x="424" y="11" width="384" height="450"/>
+	<SubTexture name="Drown normal0005" x="424" y="11" width="384" height="450"/>
+	<SubTexture name="Drown normal0006" x="837" y="11" width="384" height="450"/>
+	<SubTexture name="Drown normal0007" x="837" y="11" width="384" height="450"/>
+	<SubTexture name="Drown normal0008" x="837" y="11" width="384" height="450"/>
+	<SubTexture name="Drown sadder0000" x="1250" y="11" width="390" height="439" pivotX="15.65" pivotY="-11.05"/>
+	<SubTexture name="Drown sadder0001" x="1250" y="11" width="390" height="439"/>
+	<SubTexture name="Drown sadder0002" x="1250" y="11" width="390" height="439"/>
+	<SubTexture name="Drown sadder0003" x="1669" y="11" width="390" height="439"/>
+	<SubTexture name="Drown sadder0004" x="1669" y="11" width="390" height="439"/>
+	<SubTexture name="Drown sadder0005" x="1669" y="11" width="390" height="439"/>
+	<SubTexture name="Drown sadder0006" x="2088" y="11" width="390" height="439"/>
+	<SubTexture name="Drown sadder0007" x="2088" y="11" width="390" height="439"/>
+	<SubTexture name="Drown sadder0008" x="2088" y="11" width="390" height="439"/>
+	<SubTexture name="Drown saddest0000" x="2507" y="11" width="384" height="450" pivotX="0" pivotY="0"/>
+	<SubTexture name="Drown saddest0001" x="2507" y="11" width="384" height="450"/>
+	<SubTexture name="Drown saddest0002" x="2507" y="11" width="384" height="450"/>
+	<SubTexture name="Drown saddest0003" x="2920" y="11" width="384" height="450"/>
+	<SubTexture name="Drown saddest0004" x="2920" y="11" width="384" height="450"/>
+	<SubTexture name="Drown saddest0005" x="2920" y="11" width="384" height="450"/>
+	<SubTexture name="Drown saddest0006" x="3333" y="11" width="384" height="450"/>
+	<SubTexture name="Drown saddest0007" x="3333" y="11" width="384" height="450"/>
+	<SubTexture name="Drown saddest0008" x="3333" y="11" width="384" height="450"/>
+	<SubTexture name="Empitri chat0000" x="11" y="490" width="439" height="508" pivotX="0" pivotY="0"/>
+	<SubTexture name="Empitri chat0001" x="11" y="490" width="439" height="508"/>
+	<SubTexture name="Empitri chat0002" x="11" y="490" width="439" height="508"/>
+	<SubTexture name="Empitri chat0003" x="479" y="490" width="439" height="508"/>
+	<SubTexture name="Empitri chat0004" x="479" y="490" width="439" height="508"/>
+	<SubTexture name="Empitri chat0005" x="479" y="490" width="439" height="508"/>
+	<SubTexture name="Empitri chat0006" x="947" y="490" width="439" height="508"/>
+	<SubTexture name="Empitri chat0007" x="947" y="490" width="439" height="508"/>
+	<SubTexture name="Empitri chat0008" x="947" y="490" width="439" height="508"/>
+	<SubTexture name="wave chat0000" x="1415" y="490" width="448" height="469" pivotX="0" pivotY="0"/>
+	<SubTexture name="wave chat0001" x="1415" y="490" width="448" height="469"/>
+	<SubTexture name="wave chat0002" x="1415" y="490" width="448" height="469"/>
+	<SubTexture name="wave chat0003" x="1892" y="490" width="448" height="469"/>
+	<SubTexture name="wave chat0004" x="1892" y="490" width="448" height="469"/>
+	<SubTexture name="wave chat0005" x="1892" y="490" width="448" height="469"/>
+	<SubTexture name="wave chat0006" x="2369" y="490" width="448" height="469"/>
+	<SubTexture name="wave chat0007" x="2369" y="490" width="448" height="469"/>
+	<SubTexture name="wave chat0008" x="2369" y="490" width="448" height="469"/>
+	<SubTexture name="wave mad0000" x="2846" y="490" width="448" height="469" pivotX="0" pivotY="0"/>
+	<SubTexture name="wave mad0001" x="2846" y="490" width="448" height="469"/>
+	<SubTexture name="wave mad0002" x="2846" y="490" width="448" height="469"/>
+	<SubTexture name="wave mad0003" x="3323" y="490" width="448" height="469"/>
+	<SubTexture name="wave mad0004" x="3323" y="490" width="448" height="469"/>
+	<SubTexture name="wave mad0005" x="3323" y="490" width="448" height="469"/>
+	<SubTexture name="wave mad0006" x="11" y="1027" width="448" height="469"/>
+	<SubTexture name="wave mad0007" x="11" y="1027" width="448" height="469"/>
+	<SubTexture name="wave mad0008" x="11" y="1027" width="448" height="469"/>
+</TextureAtlas>
